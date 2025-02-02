@@ -1,5 +1,3 @@
-import scorpius from '../assets/scorpius.mp4';
-
 export const Hero = () => {
     const urlScorpius = "https://benaliassets.s3.us-east-2.amazonaws.com/Videos/Scorpius-Antares.mp4";
     return (
