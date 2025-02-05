@@ -1,10 +1,7 @@
 # Starway - Spacecraft Shop
 
-Welcome to **Starway**, a fictive spacecraft dealership set in the Star Citizen universe. This project is built using React to help you continue learning and mastering React.
-
-## Project Overview
-
-A simple page for a fictive spacecraft dealership, this project was a way for me to learn more about react developpement
+Welcome to **Starway**, a fictive spacecraft dealership set in the Star Citizen universe.
+I've been doing random small projects like this recently to help me become better with React.
 
 ## Preview
 
