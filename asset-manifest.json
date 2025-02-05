@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ben4ali/Starway-react/static/css/main.3c812f94.css",
+    "main.js": "/ben4ali/Starway-react/static/js/main.18d15ce8.js",
+    "static/media/ScorpiusAntares.jpg": "/ben4ali/Starway-react/static/media/ScorpiusAntares.5a80776ff456a715d74a.jpg",
+    "static/media/armor.png": "/ben4ali/Starway-react/static/media/armor.b36c20911a6d0a7736ab.png",
+    "static/media/Galaxy.jpg": "/ben4ali/Starway-react/static/media/Galaxy.23782dbe4cd7282d5388.jpg",
+    "static/media/newsletter.jpg": "/ben4ali/Starway-react/static/media/newsletter.d4b9c0698dc8880af5ae.jpg",
+    "static/media/race.jpg": "/ben4ali/Starway-react/static/media/race.099a8003a76b0c28425a.jpg",
+    "static/media/offer.jpg": "/ben4ali/Starway-react/static/media/offer.7b4f92625dfa147bca8c.jpg",
+    "static/media/footer.jpg": "/ben4ali/Starway-react/static/media/footer.0aeb02e71c634b0817a7.jpg",
+    "static/media/Perseus.jpg": "/ben4ali/Starway-react/static/media/Perseus.6084c8712e7c2c9cfa99.jpg",
+    "static/media/cockpit.webp": "/ben4ali/Starway-react/static/media/cockpit.b5e1f5e8b87c05cb7181.webp",
+    "static/media/A1Spirit.jpg": "/ben4ali/Starway-react/static/media/A1Spirit.7c4b5ffcd06f3038cd5c.jpg",
+    "static/media/ship.webp": "/ben4ali/Starway-react/static/media/ship.beddebade6e24d19aa6c.webp",
+    "index.html": "/ben4ali/Starway-react/index.html",
+    "static/media/logo.svg": "/ben4ali/Starway-react/static/media/logo.1f92e07261b2924a1d46e0be6bd03961.svg",
+    "main.3c812f94.css.map": "/ben4ali/Starway-react/static/css/main.3c812f94.css.map",
+    "main.18d15ce8.js.map": "/ben4ali/Starway-react/static/js/main.18d15ce8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c812f94.css",
+    "static/js/main.18d15ce8.js"
+  ]
+}
