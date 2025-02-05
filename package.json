@@ -2,7 +2,7 @@
   "name": "starway",
   "version": "0.1.0",
   "homepage": "https://github.com/ben4ali/Starway-react",
-  "proxy": "http://localhost:5000",
+  "proxy": "http://localhost:3000",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
