@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ben4ali/Starway-react/static/css/main.3c812f94.css",
+    "main.css": "/ben4ali/Starway-react/static/css/main.e08be457.css",
     "main.js": "/ben4ali/Starway-react/static/js/main.18d15ce8.js",
     "static/media/ScorpiusAntares.jpg": "/ben4ali/Starway-react/static/media/ScorpiusAntares.5a80776ff456a715d74a.jpg",
     "static/media/armor.png": "/ben4ali/Starway-react/static/media/armor.b36c20911a6d0a7736ab.png",
@@ -15,11 +15,11 @@
     "static/media/ship.webp": "/ben4ali/Starway-react/static/media/ship.beddebade6e24d19aa6c.webp",
     "index.html": "/ben4ali/Starway-react/index.html",
     "static/media/logo.svg": "/ben4ali/Starway-react/static/media/logo.1f92e07261b2924a1d46e0be6bd03961.svg",
-    "main.3c812f94.css.map": "/ben4ali/Starway-react/static/css/main.3c812f94.css.map",
+    "main.e08be457.css.map": "/ben4ali/Starway-react/static/css/main.e08be457.css.map",
     "main.18d15ce8.js.map": "/ben4ali/Starway-react/static/js/main.18d15ce8.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c812f94.css",
+    "static/css/main.e08be457.css",
     "static/js/main.18d15ce8.js"
   ]
 }
