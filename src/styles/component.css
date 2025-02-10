@@ -1,3 +1,7 @@
+body{
+    overflow-x: hidden;
+}
+
 /* NAVBAR */
 
 nav{
@@ -128,6 +132,7 @@ nav img{
 }
 
 .modelContent{
+    overflow: hidden;
     position: absolute;
     top: 20%;
     left: 10%;
@@ -197,6 +202,7 @@ nav img{
 /* ABOUT SECTION  */
 
 .about{
+    overflow: hidden;
     position: relative;
     height: 90vh;
 }
@@ -267,7 +273,14 @@ nav img{
     }
     
 }
-
+@media screen and (max-width: 768px){
+    .aboutContent{
+        top:5%;
+    }
+    .imageContainer{
+        display: none;
+    }
+}
 /* NEWSLETTER SECTION  */
 
 .newsletter{
@@ -444,14 +457,26 @@ nav img{
     font-size: 20px;
     font-weight: 300;
 }
+@media screen and (max-width: 768px){
+    .optionsHolder{
+        flex-direction: column;
+        gap: 5rem;
+        align-items: center;
+        margin-block: 4rem;
+    }
+    .option{
+        width: 95%;
+    }
+    
+}
 
 /* FOOTER SECTION */
 .footer{
-
+    overflow: hidden;
     background-color: rgb(30,30,30);
     display: flex;
     padding-inline: 10%;
-    padding-block: 5%;
+    padding-block: 10%;
     align-items: center;
     justify-content: center;
 }
@@ -496,4 +521,29 @@ nav img{
 
 .footerLinks a:hover{
     color: rgb(143, 208, 226);
+}
+
+@media screen and (max-width: 768px){
+    .footer{
+        flex-direction: column;
+        width: 80%;
+    }
+    .footer img{
+        display: none;
+    }
+    .footerContent{
+        width: 100%;
+        text-align: left;
+        margin-bottom: 2rem;
+
+    }
+    .footerContent h4{
+        padding-bottom: 1rem;
+    }
+    .footerLinks{
+        width: 100%;
+        padding: 0;
+
+    }
+
 }
